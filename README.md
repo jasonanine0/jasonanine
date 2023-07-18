@@ -6,11 +6,9 @@
   - [Connecting to localhost with FTP](https://github.com/jasonani/FTP-Servers)
 - <b>Anti-virus with ClamAV</b>
   - [Image Analysis ](https://github.com/jasonani/ClamAV) <b><i></b></i>
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
+- <b>IDS/IPS with Suricata</b>
+  - [IDS/IPS with Suricata](https://github.com/jasonani/IDS-IPS-with-Suricata)
+  
 - <b>C# (.NET Desktop Applications)</b>
   - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
   - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
