@@ -21,8 +21,7 @@
 -  [Fundamentals of Agile Project Management](https://www.credly.com/badges/2cfa0882-f053-4b62-a1a9-2349110853d7/public_url)
 -  [PWC Cyber Security Consulting Virtual Experience
 Program](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/PwC%20US/4KqDALSkyRNPXjQGa_PwC%20US_52dHLzDhLHRAbkgFu_1686340108486_completion_certificate.pdf)
--   [Cyber Security Management Virtual
-Experience Program](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/ANZ%20Australia/Hf4QMESoFeQwXPsiH_ANZ%20Australia_52dHLzDhLHRAbkgFu_1686927515086_completion_certificate.pdf)
+-  [ANZ Cyber Security Management Virtual Experience Program](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/ANZ%20Australia/Hf4QMESoFeQwXPsiH_ANZ%20Australia_52dHLzDhLHRAbkgFu_1686927515086_completion_certificate.pdf)
 
 
 <h2>📺 Popular YouTube Videos</h2>
