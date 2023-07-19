@@ -1,6 +1,6 @@
-<h1>Hi, I'm Jason! <br/> <a href="https://www.linkedin.com/in/jasonanine/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/jasonanine">YouTuber</a></h1>
+<h1>Hi, I'm Jason! <br/> <a href="https://www.linkedin.com/in/jasonanine/">Emerging Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/jasonanine">YouTuber</a></h1>
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>👨‍💻Cybersecurity Projects:</h2>
 
 - <b>FTP Server lab </b>
   - [Connecting to localhost with FTP](https://github.com/jasonani/FTP-Servers)
