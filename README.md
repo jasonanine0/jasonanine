@@ -40,7 +40,7 @@ Program](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Pw
 [<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [twitter]: https://twitter.com/jasonanine0
-[youtube]: https://www.youtube.com/c/@jasonanine
+[youtube]: https://www.youtube.com/@jasonanine
 [instagram]: https://www.instagram.com/jaso.n._/
 [linkedin]: https://linkedin.com/in/jasonanine
 
