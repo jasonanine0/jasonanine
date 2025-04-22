@@ -1,4 +1,4 @@
-<h1>Hi, I'm Jason! <br/> <a href="https://www.linkedin.com/in/jasonanine/">Aspiring Backend Developer | Java & Spring Boot Enthusiast</a>, <a href="https://www.youtube.com/c/jasonanine">YouTuber</a></h1>
+<h1>Hi, I'm Jason! <br/> <a href="https://www.linkedin.com/in/jasonanine/">CyberSecurity Analyst | Aspiring Backend Developer | Java & Spring Boot Enthusiast</a>, <a href="https://www.youtube.com/c/jasonanine">YouTuber</a></h1>
 
 <h2>👨‍💻Cybersecurity Projects:</h2>
 
